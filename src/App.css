@@ -1,0 +1,42 @@
+.RadioButtonArea {
+  display: flex;
+  flex-direction: column;
+  margin: 10px
+}
+
+.RadioButtonArea input {
+  font-size: 18px
+}
+
+.InputsArea {
+  display: flex;
+  flex-direction: column;
+}
+
+.InputArea label {
+  margin: 10px
+}
+
+.InputArea input {
+  margin: 10px
+}
+
+.InputArea {
+  display: flex;
+}
+
+.ButtonArea {
+  display: flex;
+  flex-direction: column;
+  width: 10%
+}
+
+.ButtonArea button {
+  font-size: 18px;
+  margin: 10px
+}
+
+.IsLoadingArea {
+  margin: 10px
+}
+
